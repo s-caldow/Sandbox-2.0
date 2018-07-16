@@ -1,0 +1,29 @@
+﻿@model List<HarrowCard>
+@{
+	ViewData["Title"] = "Index";
+}
+
+<header id="header" style="margin-bottom: 50px">
+	<a asp-controller="HarrowDeck" asp-action="Index" class="logo"><strong>Alignment Based Harrow</strong></a>
+</header>
+
+<div class="box alt">
+<div class="row gtr-50 gtr-uniform">
+	@foreach (var item in Model)
+	{
+		<div class="col-3">
+			<div class="header" style="margin-bottom: 20px">
+				<header class="minor">
+					<h3>@item.Name</h3>
+				</header>
+				<div class="left date">@item.Suite</div>
+				<div>
+					@item.Description
+				</div>
+				<div>@item.Alignment</div>
+				<hr />
+			</div>
+		</div>
+	}
+</div>
+</div>

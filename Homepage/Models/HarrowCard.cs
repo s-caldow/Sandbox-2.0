@@ -8,8 +8,11 @@ namespace Homepage.Models
     public class HarrowCard
     {
 	    public string Name { get; set; }
+
 	    public string Suite { get; set; }
+
 	    public string Alignment { get; set; }
+
 	    public string Description { get; set; }
     }
 }
