@@ -13282,11 +13282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\programming-practice\\Homepage\\Homepage\\Homepage.csproj",
+      "projectUniqueName": "C:\\src\\programming-practice\\Sandbox\\Homepage\\Homepage.csproj",
       "projectName": "Homepage",
-      "projectPath": "C:\\src\\programming-practice\\Homepage\\Homepage\\Homepage.csproj",
+      "projectPath": "C:\\src\\programming-practice\\Sandbox\\Homepage\\Homepage.csproj",
       "packagesPath": "C:\\Users\\sarah.caldow\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\programming-practice\\Homepage\\Homepage\\obj\\",
+      "outputPath": "C:\\src\\programming-practice\\Sandbox\\Homepage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
