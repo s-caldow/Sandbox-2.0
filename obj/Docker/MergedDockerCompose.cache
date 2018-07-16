@@ -1,7 +1,7 @@
 services:
   homepage:
     build:
-      context: C:\src\programming-practice\Homepage
+      context: C:\src\programming-practice\Sandbox
       dockerfile: Homepage/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
