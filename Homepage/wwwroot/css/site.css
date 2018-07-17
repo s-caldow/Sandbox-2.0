@@ -19,3 +19,20 @@
 .sector {
 	margin-bottom: 50px;
 }
+
+.margin {
+	width: 90%;
+	height: 90%;
+	margin: 1%;
+	padding: 4%;
+}
+
+.rightside {
+	border: 2px solid yellowgreen;
+	border-radius: 5px;
+}
+
+.inverted {
+	border: 2px solid red;
+	border-radius: 5px;
+}
