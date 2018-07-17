@@ -29,7 +29,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Paladin",
 			    Suite = "Strength",
-			    Alignment = "LG",
+			    Alignment = "Lawful Good",
 			    Description = "This card represents standing resolutely against trouble, without backing down"
 		    });
 
@@ -37,7 +37,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Keep",
 			    Suite = "Strength",
-			    Alignment = "NG",
+			    Alignment = "Neutral Good",
 			    Description = "This card represetns quiet, unshakeable strength that withstands any hardship"
 		    });
 
@@ -45,7 +45,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Big Sky",
 			    Suite = "Strength",
-			    Alignment = "CG",
+			    Alignment = "Chaotic Good",
 			    Description = "This card represents momentus change, as when all the slaves of a nation are emancipated"
 		    });
 
@@ -53,7 +53,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Forge",
 			    Suite = "Strength",
-			    Alignment = "LN",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents strength through diversity, or strength from many sources united against a single trial"
 		    });
 
@@ -61,7 +61,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Bear",
 			    Suite = "Strength",
-			    Alignment = "NN",
+			    Alignment = "True Neutral",
 			    Description = "This card represents pure strength that cannot be truly tamed or trained"
 		    });
 
@@ -69,7 +69,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Uprising",
 			    Suite = "Strength",
-			    Alignment = "CN",
+			    Alignment = "Chaotic Neutral",
 			    Description = "This card represents overwhelming strength that catches the subject up in something much more powerful"
 		    });
 
@@ -77,7 +77,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Fiend",
 			    Suite = "Strength",
-			    Alignment = "LE",
+			    Alignment = "Lawful Evil",
 			    Description = "This card is a devil that devours the innocent, and can represent the deaths of many in a disaster"
 		    });
 
@@ -85,7 +85,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Beating",
 			    Suite = "Strength",
-			    Alignment = "NE",
+			    Alignment = "Neutral Evil",
 			    Description = "This card represents an assult from all sides, or the mental dissolution of the self"
 		    });
 
@@ -93,79 +93,79 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Cyclone",
 			    Suite = "Strength",
-			    Alignment = "CE",
+			    Alignment = "Chaotic Evil",
 			    Description = "This card represents an unstoppable, destructive force unleashed through the plots of intelligent creatures"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Dance",
-			    Suite = "Dexerity",
-			    Alignment = "LG",
+			    Suite = "Dexterity",
+			    Alignment = "Lawful Good",
 			    Description = "This card represents a complicated framework that requires the cooperation of all to avoid collapse"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Cricket",
-			    Suite = "Dexerity",
-			    Alignment = "LN",
+			    Suite = "Dexterity",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents the grig, quick travel, and the reward at the end of a journey"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Juggler",
-			    Suite = "Dexerity",
-			    Alignment = "CG",
+			    Suite = "Dexterity",
+			    Alignment = "Chaotic Good",
 			    Description = "This card represents destiny, deities and those who play with the fates of others"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Locksmith",
-			    Suite = "Dexerity",
-			    Alignment = "LN",
+			    Suite = "Dexterity",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents the keys the subject needs to unlock his fate.  The card grants the tools needed to unlock some new place, puzzle or hoard"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Peacock",
-			    Suite = "Dexerity",
-			    Alignment = "NN",
+			    Suite = "Dexterity",
+			    Alignment = "True Neutral",
 			    Description = "This card represents a great beauty that can only be preserved if petrified and frozen in time for eternity, as by a cockatrice's glare"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Rabbit Prince",
-			    Suite = "Dexerity",
-			    Alignment = "CN",
+			    Suite = "Dexterity",
+			    Alignment = "Chaotic Neutral",
 			    Description = "This card represents the quiky vicissitudes of melee combat.  This card is the personification of the capriciousness of battle, and his broken sword indicates that defeat my come to anyone.  The card may also represetn younger members of royal or noble houses"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Avalanche",
-			    Suite = "Dexerity",
-			    Alignment = "LE",
+			    Suite = "Dexterity",
+			    Alignment = "Lawful Evil",
 			    Description = "This card represents disaster; an unthinkng panick and destruction that overruns all"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Crows",
-			    Suite = "Dexerity",
-			    Alignment = "LN",
+			    Suite = "Dexterity",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents murder, theft, and the violent loss of that which is loved"
 		    });
 
 		    Deck.Add(new HarrowCard
 		    {
 			    Name = "The Demon's Lantern",
-			    Suite = "Dexerity",
-			    Alignment = "CE",
+			    Suite = "Dexterity",
+			    Alignment = "Chaotic Evil",
 			    Description = "This card represents an impossible situation of traps, mind tricks and sleight of hand"
 		    });
 
@@ -173,7 +173,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Trumpet",
 			    Suite = "Constitution",
-			    Alignment = "LG",
+			    Alignment = "Lawful Good",
 			    Description = "This card represents an archon who dives aggresively and righteously into danger"
 		    });
 
@@ -181,7 +181,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Survivor",
 			    Suite = "Constitution",
-			    Alignment = "NG",
+			    Alignment = "Neutral Good",
 			    Description = "This card represents a creature that has managed to survive a terrible ordeal, when everyone thought him lost"
 		    });
 
@@ -189,7 +189,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Desert",
 			    Suite = "Constitution",
-			    Alignment = "CG",
+			    Alignment = "Chaotic Good",
 			    Description = "This card represents an environment too difficult for anyone to survive without help"
 		    });
 
@@ -197,7 +197,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Brass Dwarf",
 			    Suite = "Constitution",
-			    Alignment = "LN",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents a creature invulnerable to a current threat"
 		    });
 
@@ -205,7 +205,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Teamster",
 			    Suite = "Constitution",
-			    Alignment = "NN",
+			    Alignment = "True Neutral",
 			    Description = "This card represents an external force that drives the subject on"
 		    });
 
@@ -213,7 +213,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Mountain Man",
 			    Suite = "Constitution",
-			    Alignment = "CN",
+			    Alignment = "Chaotic Neutral",
 			    Description = "This card represents an encounter with a physical power outside of the subject's control"
 		    });
 
@@ -221,7 +221,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Tangled Briar",
 			    Suite = "Constitution",
-			    Alignment = "LE",
+			    Alignment = "Lawful Evil",
 			    Description = "This card represents a historical thing or creature that will have some influence on the question"
 		    });
 
@@ -229,7 +229,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Sickness",
 			    Suite = "Constitution",
-			    Alignment = "NE",
+			    Alignment = "Neutral Evil",
 			    Description = "This card represents corruption, plague, pestilence and disease"
 		    });
 
@@ -237,7 +237,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Waxworks",
 			    Suite = "Constitution",
-			    Alignment = "CE",
+			    Alignment = "Chaotic Evil",
 			    Description = "This card represents a place of torture, imprisonment, helplessness, and paralysis"
 		    });
 
@@ -245,7 +245,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Hidden Truth",
 			    Suite = "Intelligence",
-			    Alignment = "LG",
+			    Alignment = "Lawful Good",
 			    Description = "This card represents the discovery of a greater truth within"
 		    });
 
@@ -253,7 +253,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Wanderer",
 			    Suite = "Intelligence",
-			    Alignment = "NG",
+			    Alignment = "Neutral Good",
 			    Description = "This card represents a centaur who appreciates things that others discard as junk"
 		    });
 
@@ -261,7 +261,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Joke",
 			    Suite = "Intelligence",
-			    Alignment = "CG",
+			    Alignment = "Chaotic Good",
 			    Description = "This card represents a monster that can only be defeated through trickery or the value of humor in circumventing difficult people"
 		    });
 
@@ -269,7 +269,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Inquisitor",
 			    Suite = "Intelligence",
-			    Alignment = "LN",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents an immutable object that cannot be deceived or influenced"
 		    });
 
@@ -277,7 +277,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Foreign Trader",
 			    Suite = "Intelligence",
-			    Alignment = "NN",
+			    Alignment = "True Neutral",
 			    Description = "This card represents spies, merchants and those who truck in information"
 		    });
 
@@ -285,7 +285,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Vision",
 			    Suite = "Intelligence",
-			    Alignment = "CN",
+			    Alignment = "Chaotic Neutral",
 			    Description = "This card represents esoteric and arcane knowledge, or madness"
 		    });
 
@@ -293,7 +293,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Rakshasa",
 			    Suite = "Intelligence",
-			    Alignment = "LE",
+			    Alignment = "Lawful Evil",
 			    Description = "This card represents domination, mental control and slavery"
 		    });
 
@@ -301,7 +301,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Idiot",
 			    Suite = "Intelligence",
-			    Alignment = "NE",
+			    Alignment = "Neutral Evil",
 			    Description = "This card represents folly, greed, blackmail, bribery or hubris"
 		    });
 
@@ -309,7 +309,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Snakebite",
 			    Suite = "Intelligence",
-			    Alignment = "CE",
+			    Alignment = "Chaotic Evil",
 			    Description = "This card represents poison, venom, assassination and discord"
 		    });
 
@@ -317,7 +317,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Winged Serpent",
 			    Suite = "Wisdom",
-			    Alignment = "LG",
+			    Alignment = "Lawful Good",
 			    Description = "This card represents the bridge of understanding between the towers of knowledge and judgement"
 		    });
 
@@ -325,7 +325,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Midwife",
 			    Suite = "Wisdom",
-			    Alignment = "NG",
+			    Alignment = "Neutral Good",
 			    Description = "This card represents the enabler or conduit of new creation, information or arrivals"
 		    });
 
@@ -333,7 +333,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Publican",
 			    Suite = "Wisdom",
-			    Alignment = "CG",
+			    Alignment = "Chaotic Good",
 			    Description = "This card represents fellowship and friendship, as well as unexpected, but relevant, insight"
 		    });
 
@@ -341,7 +341,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Queen Mother",
 			    Suite = "Wisdom",
-			    Alignment = "LN",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents knowledge personified, fondness for enforcing the status quo and for those that serve a more powerful entity"
 		    });
 
@@ -349,7 +349,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Owl",
 			    Suite = "Wisdom",
-			    Alignment = "NN",
+			    Alignment = "True Neutral",
 			    Description = "This card represents harsh wisdom of the natural order.  The owl holds a needle that can bind life together or pick it apart"
 		    });
 
@@ -357,7 +357,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Carnival",
 			    Suite = "Wisdom",
-			    Alignment = "CN",
+			    Alignment = "Chaotic Neutral",
 			    Description = "This card represents illusions and false dreams"
 		    });
 
@@ -365,7 +365,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Eclipse",
 			    Suite = "Wisdom",
-			    Alignment = "LE",
+			    Alignment = "Lawful Evil",
 			    Description = "This card represents a loss of faith and purpose, and the subject's doubt about his abilities or prospects"
 		    });
 
@@ -373,7 +373,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Hag",
 			    Suite = "Wisdom",
-			    Alignment = "NE",
+			    Alignment = "Neutral Evil",
 			    Description = "This card represents insight used harm, control or pry secrets from the unsuspecting"
 		    });
 
@@ -381,7 +381,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Madman",
 			    Suite = "Wisdom",
-			    Alignment = "CE",
+			    Alignment = "Chaotic Evil",
 			    Description = "This card represents the permanently insane, lost amoung lunativs and psychopaths in asylums.  It is a card of emptiness"
 		    });
 
@@ -389,7 +389,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Empty Throne",
 			    Suite = "Charisma",
-			    Alignment = "LG",
+			    Alignment = "Lawful Good",
 			    Description = "This card represents those who are gone, or a ghost of the past who has taught important lessons"
 		    });
 
@@ -397,7 +397,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Theater",
 			    Suite = "Charisma",
-			    Alignment = "NG",
+			    Alignment = "Neutral Good",
 			    Description = "This card represents prophecy, with a true prophet acting a part as the puppet of the gods"
 		    });
 
@@ -405,7 +405,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Unicorn",
 			    Suite = "Charisma",
-			    Alignment = "CG",
+			    Alignment = "Chaotic Good",
 			    Description = "This card represents who generously offers up that which is sought"
 		    });
 
@@ -413,7 +413,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Marriage",
 			    Suite = "Charisma",
-			    Alignment = "LN",
+			    Alignment = "Lawful Neutral",
 			    Description = "This card represents a union of peoples, ideas, or kingdoms that might be as productive or as ruinous as the bonding of a salamander and a water weird"
 		    });
 
@@ -421,7 +421,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Twin",
 			    Suite = "Charisma",
-			    Alignment = "NN",
+			    Alignment = "True Neutral",
 			    Description = "This card represents the duality or purpose or identity, or indecision and fence-sitting for the subject or the entire spread"
 		    });
 
@@ -429,7 +429,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Courtesan",
 			    Suite = "Charisma",
-			    Alignment = "CN",
+			    Alignment = "Chaotic Neutral",
 			    Description = "This card represents political intrigue and the superficiality of social niceties"
 		    });
 
@@ -437,7 +437,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Tyrant",
 			    Suite = "Charisma",
-			    Alignment = "LE",
+			    Alignment = "Lawful Evil",
 			    Description = "This card represents a ruler who harms those he rules"
 		    });
 
@@ -445,7 +445,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Betrayal",
 			    Suite = "Charisma",
-			    Alignment = "NE",
+			    Alignment = "Neutral Evil",
 			    Description = "This card represents selfishness and envy"
 		    });
 
@@ -453,7 +453,7 @@ namespace Homepage.HarrowDeck
 		    {
 			    Name = "The Liar",
 			    Suite = "Charisma",
-			    Alignment = "CE",
+			    Alignment = "Chaotic Evil",
 			    Description = "This card represents destructive, threacherous love.  This card may also represent obession, star-crossed lovers or unrequited love"
 		    });
 		}

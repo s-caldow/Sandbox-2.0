@@ -1,7 +1,15 @@
-﻿
+﻿@model HarrowCard
 @{
     ViewData["Title"] = "Details";
 }
 
-<h2>Details</h2>
+<header id="header" style="margin-bottom: 50px">
+	<a asp-controller="HarrowDeck" asp-action="Index" class="logo"><strong>@Model.Name</strong></a>
+</header>
 
+<div>Alignment: @Model.Alignment</div>
+<div>Suite: @Model.Suite</div>
+<div>Description:</div>
+<div>@Model.Description</div>
+<div>@Model.Description</div>
+<div>@Model.Description</div>
