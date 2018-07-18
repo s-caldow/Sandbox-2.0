@@ -10,6 +10,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="~/css/main.css" />
+	<link rel="stylesheet" href="~/css/site.css"/>
 </head>
 <body class="is-preload">
 
@@ -49,7 +50,7 @@
 							<span class="opener">RPG Applications</span>
 							<ul>
 								<li><a asp-controller="MapGenerator" asp-action="Index">Map Generator</a></li>
-								<li><a href="#">Harrow Deck</a></li>
+								<li><a asp-controller="HarrowDeck" asp-action="Index">Harrow Deck</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -108,6 +109,5 @@
 	<script src="~/js/breakpoints.min.js"></script>
 	<script src="~/js/util.js"></script>
 	<script src="~/js/main.js"></script>
-
 </body>
 </html>
