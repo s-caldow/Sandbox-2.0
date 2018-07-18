@@ -27,12 +27,22 @@
 	padding: 4%;
 }
 
-.rightside {
+.bright-green {
+	border: 2px solid green;
+	border-radius: 5px;
+}
+
+.light-green {
 	border: 2px solid yellowgreen;
 	border-radius: 5px;
 }
 
-.inverted {
+.light-red {
 	border: 2px solid red;
+	border-radius: 5px;
+}
+
+.dark-red {
+	border: 2px solid darkred;
 	border-radius: 5px;
 }
